@@ -17,7 +17,7 @@
 
 <script setup lang="ts">
 import { userStore } from '@/shared/store/UserStore';
-import { User } from '@/shared/utils/User.interface';
+import { User } from '@/shared/utils/User.interface'; 
 import { ref, reactive } from 'vue';
 
 const props = defineProps({
