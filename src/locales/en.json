@@ -1,0 +1,19 @@
+{
+  "message": {
+    "Language": "Language",
+    "create": "Create Here",
+    "Name": "Name",
+    "Address": "Address",
+    "Phone": "Phone",
+    "ID": "ID",
+    "ADD": "ADD",
+    "UserList": "UserList",
+    "Home": "Home",
+    "User": "User",
+    "Userlist": "Userlist",
+    "Submit": "Submit",
+    "NewName": "New Name",
+    "NewAddress": "New Address",
+    "NewPhone": "New Phone"
+  }
+}
